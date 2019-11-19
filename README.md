@@ -1,2 +1,3 @@
 # Trichometry-Lessons-Project
-A repo of Lessons and Templates about the Trichometry of phytocannabinoids
+
+A repo of Lessons and Templates exploring the Trichometric Metabolic Pathways within the Tree of Life
