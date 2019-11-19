@@ -1,7 +1,7 @@
 ---
 title: Home Page
 layout: default
-excerpt: Trichometry is the study of phytocannabinoids. Specifically, the metabolic pathway whereby a trichome is filled ...
+excerpt: Trichometry is the study of phytocannabinoids and volatile terpenes. Specifically, the metabolic pathways whereby a trichome is filled ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
 description_two: Raw Code, Issues, and Sources
 repo: Trichometry-Lessons-Project
